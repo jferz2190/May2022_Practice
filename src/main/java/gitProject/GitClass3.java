@@ -6,5 +6,6 @@ public class GitClass3 {
 		System.out.println("lkjkjh");
 		System.out.println("kjhg");
 		System.out.println("dfghjk");
+		System.out.println("dfghjk");
 	}
 }
